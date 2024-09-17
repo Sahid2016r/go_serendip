@@ -181,7 +181,7 @@
         </ul>
     </nav>
     <div class="container">
-        <h1>About GO SERENDIP</h1>
+        <h1>About_GO_SERENDIP</h1>
         <div class="section">
             <h2>Introduction</h2>
             <p>Welcome to <strong>GO SERENDIP</strong>, your ultimate travel companion for exploring the enchanting island of Sri Lanka. Our mission is to provide travelers with the most comprehensive, accurate, and up-to-date information about Sri Lanka’s rich cultural heritage, stunning landscapes, and hidden gems. Whether you are an adventure seeker, a history enthusiast, or someone looking for a relaxing beach getaway, <strong>GO SERENDIP</strong> has something for everyone.</p>
